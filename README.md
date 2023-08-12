@@ -15,6 +15,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-5c4196?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-5c4196?style=flat&logo=javascript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-5c4196?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=1572B6)&nbsp;
 
 ### 🛠 &nbsp;Tools
 
