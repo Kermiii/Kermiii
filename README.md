@@ -3,7 +3,7 @@
 ### 👨 &nbsp;About Me
 
 💡 &nbsp;I am a lover of technology, cars and coffee, also known as Kermiii or Kermit.\
-🎓 &nbsp;I am currently studying as a mechanic.\
+🎓 &nbsp;I am currently working as a delivery driver.\
 ✍️ &nbsp;I've been working with Graphic Design and mainly with development of webs and game scripts.\
 📄 &nbsp;In my free time i am usually working with webs.\
 ✉️ &nbsp;You can contact me through my email whenever you want for a project, question or even a coffee...
@@ -15,6 +15,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-5c4196?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-5c4196?style=flat&logo=javascript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-5c4196?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-5c4196?style=flat&logo=Csharp&logoColor=c300ff)&nbsp;
 
 ### 🛠 &nbsp;Tools
 
@@ -28,5 +29,5 @@
 ### 🤝 &nbsp;Connect with Me :)
 
 [![is](https://img.shields.io/badge/-@petr_kermiii-5c4196?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/petr_kermiii)&nbsp;
-![Kermiii#1000](https://img.shields.io/badge/-Kermiii%231000-5c4196?style=flat&logo=Discord&logoColor=1572B6)&nbsp;
+![kermiii](https://img.shields.io/badge/-Kermiii%231000-5c4196?style=flat&logo=Discord&logoColor=1572B6)&nbsp;
 ![info@kermiii.eu](https://img.shields.io/badge/-info@kermiii.eu-5c4196?style=flat)
